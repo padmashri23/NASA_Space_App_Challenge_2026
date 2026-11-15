@@ -1,0 +1,4 @@
+:HL["/NASA_Space_App_Challenge_2026/_next/static/chunks/1kx6rn4wean_b.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"Z6aiRAhws7SEY0Dw96s0z","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
