@@ -1,0 +1,14 @@
+# raw and intermediate data (rebuild with pipeline/)
+/data/
+__pycache__/
+*.pyc
+
+# secrets
+.env*
+!.env*.example
+
+# build output
+/web/out/
+/web/.next/
+/web/node_modules/
+*.tsbuildinfo
