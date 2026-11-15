@@ -10,7 +10,7 @@ Built for the **NASA Space Apps Challenge 2026**, challenge *Harmonization of MO
 
 | | |
 |---|---|
-| **Live app** | _Vercel link: to be added_ |
+| **Live app** | **https://nasa-space-app-challenge-2026-gamma.vercel.app** (every feature) |
 | **Backup (GitHub Pages)** | https://padmashri23.github.io/NASA_Space_App_Challenge_2026/ (everything except the live fire list and last-7-days check, which need a free NASA FIRMS key there) |
 | **Data** | NASA FIRMS active fires (MODIS Collection 6.1, VIIRS 375 m Suomi-NPP and NOAA-20), 2000 to 14 November 2026 |
 
